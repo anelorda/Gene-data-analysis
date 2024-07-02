@@ -1,4 +1,4 @@
-#load("Downloads/test_2406214.RData")
+load("test_2406214.RData")
 
 #PROBLEM 1
 #to understand relationship between gene lenth and GC content building linear 
